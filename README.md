@@ -1,2 +1,1 @@
-# Teaching
-History of the workshop and formation given by Strée Eloi as Jams Center
+Go to https://github.com/JamsCenter/Teaching/wiki
