@@ -1,4 +1,5 @@
-
+# CV
+![CV Eloi Stree 2020](https://github.com/EloiStree/Teaching/blob/master/CV_EloiStree_2020.png?raw=true)
 # Given workshops & courses
 [![](https://scontent.fbru1-1.fna.fbcdn.net/v/t1.0-9/23754973_10214936340031673_94190270321766690_n.jpg?oh=8aa958a36655429bfcef481df355eae5&oe=5AF1D39C)](https://youtu.be/W1TRh4pAFzY)
 - **2019/08/05** : Introduction to Oculus Quest and VR [Online Course](https://github.com/EloiStree/CodeAndQuestsEveryDay/wiki)
