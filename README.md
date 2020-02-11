@@ -1,3 +1,6 @@
+# Skills & Services
+[![](https://github.com/EloiStree/Teaching/blob/master/WebRef/EloiStreeSkills2017.jpg)](https://docs.google.com/document/d/1oYvmpW8AlGxmX0fbCQzUhDohjQRVh8333s01QkuKsxc/edit?usp=sharing)
+## 2020
 ![CV Eloi Stree 2020](https://github.com/EloiStree/Teaching/blob/master/CV_EloiStree_2020.png?raw=true)
 # Given workshops & courses
 [![](https://scontent.fbru1-1.fna.fbcdn.net/v/t1.0-9/23754973_10214936340031673_94190270321766690_n.jpg?oh=8aa958a36655429bfcef481df355eae5&oe=5AF1D39C)](https://youtu.be/W1TRh4pAFzY)
@@ -36,8 +39,7 @@
 
 ## Virtual reality initation
 [![](https://camo.githubusercontent.com/5b5ea6546c80b3c8a5a0fb649062a52aebbe1877/68747470733a2f2f7777772e6361626c656c6162732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f31302f57686f5f57696c6c5f57696e5f5468655f526163655f466f725f5669727475616c5f5265616c6974795f436f6e74656e745f53746576655f476c656e6e6f6e2e6a7067)](http://eloistree.page.link/vr)
-# Skills & Services
-[![](https://github.com/EloiStree/Teaching/blob/master/WebRef/EloiStreeSkills2017.jpg)](https://docs.google.com/document/d/1oYvmpW8AlGxmX0fbCQzUhDohjQRVh8333s01QkuKsxc/edit?usp=sharing)
+
 ## Documents
 - [Services Proposition](https://docs.google.com/document/d/1oYvmpW8AlGxmX0fbCQzUhDohjQRVh8333s01QkuKsxc/edit?usp=sharing)  
 - __Certification__
