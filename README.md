@@ -61,7 +61,7 @@ Leading me to be self-taught.
 
 I only have the Belgian CESS and a year of video game initiation in the industry, given by Technocité in September-December 2013 and June-December 2014 as certification.
 
-I also spend weeks learning Java to pass the Java certification:
+I also spent weeks learning Java to pass the Java certification:
 [Oracle Certified Professional, Java SE 6 Programmer](https://www.credly.com/org/oracle/badge/oracle-certified-professional-java-se-6-programmer)
 
 
