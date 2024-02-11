@@ -1,5 +1,9 @@
 # Skills & Services
 
+Learn about what I able and willing to teach:  
+[https://github.com/EloiStree/HelloEloiTeachingModule](https://github.com/EloiStree/HelloEloiTeachingModule)  
+
+
 
 ## 2023 / 2024
 - **2024/02/26** : Initiation to the basic of Unity3D in a library [Pitch](https://github.com/EloiStree/HelloCarRC/blob/main/BonjourUnity3D/Atelier_300GamingSpace.md),  [Online Course](https://github.com/EloiStree/HelloCarRC/blob/main/FR/February2024/HelloCarRCFR.md)
@@ -41,7 +45,8 @@
  
 ## Self-taught
 
-[![image](https://github.com/EloiStree/Teaching/assets/20149493/13148195-3083-40e0-801e-32dcaf658b7a)](https://www.exoa.fr/formation-en-developpement-de-jeux-video/)
+[![image](https://github.com/EloiStree/Teaching/assets/20149493/eb0d4118-5c14-427b-afe7-7ec6020d8ee3)
+](https://www.exoa.fr/formation-en-developpement-de-jeux-video/)
 
 Coding and exploring new technologies are my main activities in life.
 Leading me to be self-taught.
