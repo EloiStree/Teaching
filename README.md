@@ -19,7 +19,7 @@ Learn about what I able and willing to teach:
 - **2017/12/11** : Game Developer in 100 days ([Objectives](http://www.technifutur.be/formations-informatique-formations-pour-demandeurs-d-emploi-formation-game-developer) - [Online Course](http://eloistree.page.link/unity/))      
 - **2017/11/17** : Coach at the Moscow Hackathon ([Write-up](https://github.com/EloiStree/2017_11_18_MoscowMetro/wiki))
 -  **2017/11/20** : Virtual Reality Initation #3 ([Objectives](https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_11_20_HelloVR_Technobel.pdf))
--  **2017/10/06** : Creation of Teaching Simulator ([Video](https://youtu.be/GHykAvW7ZhE) - [Write-up](https://github.com/EloiStree/2017_10_06_KissYourTeacher/wiki))
+-  **2017/10/06** : Creation of Teaching Simulator ([Video](https://www.youtube.com/watch?v=s3052ARNaeo) - [Write-up](https://github.com/EloiStree/2017_10_06_KissYourTeacher/wiki))
 -  **2017/10/12** : Ambassador/Coach VR at Museomix ([Video](https://www.facebook.com/museomixBE/videos/1113864978748669/))
 -  **2017/09/10** : Virtual reality briefing with the Interface3 team ([Trailer](https://www.youtube.com/watch?v=dMkZRtVDVFs))
 -  **2017/09/20** : Virtual reality Workshop Coach (Mons, Technocité)
