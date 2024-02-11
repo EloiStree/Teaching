@@ -32,7 +32,9 @@
 
 # Virtual Teacher simulator 
 [![](https://img.itch.zone/aW1hZ2UvMTgyMzI5Lzg1MjM1My5qcGc=/original/JFR7%2FY.jpg)](https://www.youtube.com/watch?v=GHykAvW7ZhE)     
-[Watch game trailer](https://www.youtube.com/watch?v=GHykAvW7ZhE) - [More educational game](https://github.com/EloiStree/2017_10_06_KissYourTeacher/wiki)
+[![image](https://github.com/EloiStree/Teaching/assets/20149493/2258be06-e737-4715-a8e4-0cfcaa929240)](https://www.youtube.com/watch?v=s3052ARNaeo)
+
+[Watch game trailer](https://www.youtube.com/watch?v=s3052ARNaeo) - [More educational game](https://github.com/EloiStree/2017_10_06_KissYourTeacher/wiki)
 
 
  --------------------------------------
