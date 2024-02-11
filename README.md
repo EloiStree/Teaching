@@ -36,22 +36,11 @@
 [![](https://img.itch.zone/aW1hZ2UvMTgyMzI5Lzg1MjM1My5qcGc=/original/JFR7%2FY.jpg)](https://www.youtube.com/watch?v=GHykAvW7ZhE)     
 [Watch game trailer](https://www.youtube.com/watch?v=GHykAvW7ZhE) - [More educational game](https://github.com/EloiStree/2017_10_06_KissYourTeacher/wiki)
 
-## Kiss your teacher game jam
-[![](https://github.com/EloiStree/2017_10_06_KissYourTeacher/raw/master/WebRef/Images/1.jpg?raw=true)](https://youtu.be/qrgzx00RCBI)        
-[_"Un jeu éducatif, c'est avant tout... Un jeu !", Laurent Grumieux_](https://youtu.be/qrgzx00RCBI?t=142)
-- [What is the kiss your teacher game jam ?](https://youtu.be/qrgzx00RCBI?t=124)
-- [Where can I find information on the previous event ?](https://github.com/EloiStree/2017_10_06_KissYourTeacher/wiki)
-- [What is the ambiance of this kind of educative event  ?](https://www.youtube.com/playlist?list=PLTFXrECXb08Z711gCvL-WOqPwknzuFWQG)
+
+ --------------------------------------
  
-# Open source courses under construction
-## Unity Starter Pack
-[![](https://camo.githubusercontent.com/fb30ddec6c3d524133d8a7207b3c6ce9cec8b982/68747470733a2f2f626c6f67732e756e69747933642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f31322f43696e656d61746963496d616765456666656374735f426c6f67706f73745f53637265656e73686f745f30322e6a7067)](http://eloistree.page.link/unity)
-
-
-## Virtual reality initation
-[![](https://camo.githubusercontent.com/5b5ea6546c80b3c8a5a0fb649062a52aebbe1877/68747470733a2f2f7777772e6361626c656c6162732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f31302f57686f5f57696c6c5f57696e5f5468655f526163655f466f725f5669727475616c5f5265616c6974795f436f6e74656e745f53746576655f476c656e6e6f6e2e6a7067)](http://eloistree.page.link/vr)
-
 ## Documents
+
 - [Services Proposition](https://docs.google.com/document/d/1oYvmpW8AlGxmX0fbCQzUhDohjQRVh8333s01QkuKsxc/edit?usp=sharing)  
 - __Certification__
   - [ Développeur en transmedia et gaming (June-Dec 2014)](http://www.technocite.be/index.php/fr/component/detailsform/?form=1019&utm_source=Sarbacane&utm_medium=email&utm_campaign=12%2F06%2F2014+Newsletter_transmedia_gaming) ([Info](https://www.technocite.be/index.php/blog/88-blog-it-jeu-video-formation-div/211-le-transmedia-et-le-gaming-lassociation-gagnante))
@@ -61,11 +50,4 @@
   - [Certificat d'Enseignement Secondaire supérieur](http://jams.center/certifications/CESS.JPG) 
 - [Downloadable curriculum, PDF](http://jams.center/cv/2017_Eloi_cv_vr.pdf)
 - [Clean Criminal Record](http://jams.center/cv/ExtraitCasierJudiciaire.pdf)
-## History 
-- Reward
-  - Up-Ways [Brussels](http://www.lavenir.net/cnt/dmf20170502_00998061/upway-une-app-qui-localise-stations-bus-trams-et-metros-sur-la-carte-en-temps-reel-primee-au-hackathon-de-la-stib) & [Montréal](https://bx1.be/news/lapplication-bruxelloise-upway-gagne-le-premier-hackathon-international-dedie-au-transport/)
-  - SimWheels [Brussels](https://www.facebook.com/simwheels/videos/378540242588074/)
-  - Design Space Analytics [Stuttgart](https://www.youtube.com/watch?v=qC3UC1z_lOs&t=16s)
-  - Unknow Radio [GDC](https://youtu.be/NBMxmFj_PN4)
-- [Projects & Researches](http://www.jams.center/projectsandresearches/)
-- [Contests & Game Jams](http://www.jams.center/jamsandhacks/)
+
