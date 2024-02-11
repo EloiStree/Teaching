@@ -63,3 +63,19 @@ I also spend weeks learning Java to pass the Java certification:
 [Oracle Certified Professional, Java SE 6 Programmer](https://www.credly.com/org/oracle/badge/oracle-certified-professional-java-se-6-programmer)
 
 
+## My CV
+
+Make a CV is ready hard for my life. It have been 12+ years of moving in all direction every weeks of my life. That don't fit on a paper.
+
+But you can find about what I am working on here:
+- List of some project I took the time to put in my portfolio:
+  - [Portfolio](https://github.com/EloiStree/EloiStree/blob/master/Issues/ProjectsID.md)
+  - [More about project in Porftolio](https://github.com/EloiStree/ProjectsID) 
+- Youtube Channel:
+  - Raw video of what I am working on: www.youtube.com/@eloistree/videos
+  - Portfolio(1/4) of some project showable in video: www.youtube.com/@eloistree/videos
+
+
+
+
+
