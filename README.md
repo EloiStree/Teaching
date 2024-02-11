@@ -1,6 +1,6 @@
 # Skills & Services
 
-Learn about what I able and willing to teach:  
+Learn about what I am able and willing to teach:  
 [https://github.com/EloiStree/HelloEloiTeachingModule](https://github.com/EloiStree/HelloEloiTeachingModule)  
 
 
