@@ -4,6 +4,10 @@
 ![CV Eloi Stree 2020](https://github.com/EloiStree/Teaching/blob/master/CV_EloiStree_2020.jpg?raw=true)
 # Given workshops & courses
 [![](https://scontent.fbru1-1.fna.fbcdn.net/v/t1.0-9/23754973_10214936340031673_94190270321766690_n.jpg?oh=8aa958a36655429bfcef481df355eae5&oe=5AF1D39C)](https://youtu.be/W1TRh4pAFzY)
+- **2023/08/05** : Unity3D et python pour du QA testing scripté [Online Course](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC)
+- **Années 2023** : Ateliers de pilotage de drone et voiture RC en Classic/VR/XR (Archive Video: https://www.youtube.com/shorts/wIaLICSFSxY )  
+
+Before 2020:
 - **2019/08/05** : Introduction to Oculus Quest and VR [Online Course](https://github.com/EloiStree/CodeAndQuestsEveryDay/wiki)
 - **2019/04/09** : Initiation to Hololens [Online Course](https://github.com/EloiStree/HelloHololens/wiki)
 - **2018/09/29** : Be a Virtual reality develeper (Group of teachers)([Online Course](http://eloistree.page.link/vr))
