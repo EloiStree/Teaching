@@ -39,15 +39,16 @@
 
  --------------------------------------
  
-## Documents
+## Self-taught
 
-- [Services Proposition](https://docs.google.com/document/d/1oYvmpW8AlGxmX0fbCQzUhDohjQRVh8333s01QkuKsxc/edit?usp=sharing)  
-- __Certification__
-  - [ Développeur en transmedia et gaming (June-Dec 2014)](http://www.technocite.be/index.php/fr/component/detailsform/?form=1019&utm_source=Sarbacane&utm_medium=email&utm_campaign=12%2F06%2F2014+Newsletter_transmedia_gaming) ([Info](https://www.technocite.be/index.php/blog/88-blog-it-jeu-video-formation-div/211-le-transmedia-et-le-gaming-lassociation-gagnante))
-  - [Casual and Serious Gaming (Sep-Dec 2013)](https://www.exoa.fr/formation-en-developpement-de-jeux-video/)
-  - [Oracle Certified Professional, Java SE 6 Programmer](http://jams.center/certifications/J2SE.JPG) 
-  - [Développeur Java orienté cloud](http://jams.center/certifications/J2EE.JPG)
-  - [Certificat d'Enseignement Secondaire supérieur](http://jams.center/certifications/CESS.JPG) 
-- [Downloadable curriculum, PDF](http://jams.center/cv/2017_Eloi_cv_vr.pdf)
-- [Clean Criminal Record](http://jams.center/cv/ExtraitCasierJudiciaire.pdf)
+[![image](https://github.com/EloiStree/Teaching/assets/20149493/13148195-3083-40e0-801e-32dcaf658b7a)](https://www.exoa.fr/formation-en-developpement-de-jeux-video/)
+
+Coding and exploring new technologies are my main activities in life.
+Leading me to be self-taught.
+
+I only have the Belgian CESS and a year of video game initiation in the industry, given by TechnoIT in September-December 2013 and June-December 2014 as certification.
+
+I also spend weeks learning Java to pass the Java certification:
+[Oracle Certified Professional, Java SE 6 Programmer](https://www.credly.com/org/oracle/badge/oracle-certified-professional-java-se-6-programmer)
+
 
