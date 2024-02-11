@@ -1,12 +1,10 @@
 # Skills & Services
 
 
-## 2020
-
-# Given workshops & courses
-
-- **2023/08/05** : Unity3D et python pour du QA testing scripté [Online Course](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC)
-- **Années 2023** : Ateliers de pilotage de drone et voiture RC en Classic/VR/XR (Archive Video: https://www.youtube.com/shorts/wIaLICSFSxY )  
+## 2023 / 2024
+- **2024/02/26** : Initiation to the basic of Unity3D in a library [Pitch](https://github.com/EloiStree/HelloCarRC/blob/main/BonjourUnity3D/Atelier_300GamingSpace.md),  [Online Course](https://github.com/EloiStree/HelloCarRC/blob/main/FR/February2024/HelloCarRCFR.md)
+- **2023/08/05** : Unity3D and python for QA automated testing  [Online Course](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC)
+- **Années 2023** : Workshop to learn drone through VR and electronics ([Archive Video](https://www.youtube.com/shorts/wIaLICSFSxY))  
 
 ## Before 2020:
 
