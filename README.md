@@ -67,7 +67,7 @@ I also spent weeks learning Java to pass the Java certification:
 
 ## My CV
 
-Make a CV is ready hard for my life. It have been 12+ years of moving in all direction every weeks of my life. That don't fit on a paper.
+Make a CV is really hard for my life style. It have been 12+ years of moving in all direction every weeks of my life. That don't fit on a paper.
 
 But you can find about what I am working on here:
 - List of some project I took the time to put in my portfolio:
