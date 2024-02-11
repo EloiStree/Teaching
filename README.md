@@ -21,13 +21,13 @@ Learn about what I able and willing to teach:
 -  **2017/11/20** : Virtual Reality Initation #3 ([Objectives](https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_11_20_HelloVR_Technobel.pdf))
 -  **2017/10/06** : Creation of Teaching Simulator ([Video](https://www.youtube.com/watch?v=s3052ARNaeo) - [Write-up](https://github.com/EloiStree/2017_10_06_KissYourTeacher/wiki))
 -  **2017/10/12** : Ambassador/Coach VR at Museomix ([Video](https://www.facebook.com/museomixBE/videos/1113864978748669/))
--  **2017/09/10** : Virtual reality briefing with the Interface3 team ([Trailer](https://www.youtube.com/watch?v=dMkZRtVDVFs))
+-  **2017/09/10** : Virtual reality briefing with the Interface3 team (~~[Video](#)~~)
 -  **2017/09/20** : Virtual reality Workshop Coach (Mons, Technocité)
 -  **2017/08/16** : Virtual reality Developer initation #2 ([Objectives](https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_08_16_HelloVR_Interface3.pdf)) 
 -  **2017/06/16** : Virtual reality Developer initation #1 ([Objectives](https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_06_26_HelloVR_Technocite.pdf)) 
--  **2017/03/30** : Write-up on Girleek (IoT for kids and girls) ([Interview](https://youtu.be/QYCJcKgF0b0))
+-  **2017/03/30** : Write-up on Girleek (IoT for kids and girls) (~~[Video](#)~~)
 -  **2017/01/24** : 24H Virutal reality painting jam ([Video](https://youtu.be/n6uqpYgrE2E))
--  **2016/11/17** : UCLL Hello VR ([Video](https://www.youtube.com/watch?v=c0H4T-7WbLo)) 
+-  **2016/11/17** : UCLL Hello VR (~~[Video](#)~~) 
 -  **2016/09/19** : Hello VR for Android ([Info](https://www.meetup.com/fr-FR/Virtual-Reality-in-Belgium/events/233084944/?eventId=233084944))
 
 
