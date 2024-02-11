@@ -72,8 +72,10 @@ But you can find about what I am working on here:
   - [Portfolio](https://github.com/EloiStree/EloiStree/blob/master/Issues/ProjectsID.md)
   - [More about project in Porftolio](https://github.com/EloiStree/ProjectsID) 
 - Youtube Channel:
-  - Raw video of what I am working on: www.youtube.com/@eloistree/videos
-  - Portfolio(1/4) of some project showable in video: www.youtube.com/@eloistree/videos
+  - Raw video of what I am working on:
+    - www.youtube.com/@eloistreeraw/videos
+  - Portfolio(1/4) of some project showable in video:
+    - www.youtube.com/@eloistree/videos
 
 
 
