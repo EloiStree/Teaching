@@ -78,7 +78,8 @@ But you can find about what I am working on here:
     - www.youtube.com/@eloistreeraw/videos
   - Portfolio(1/4) of some project showable in video:
     - www.youtube.com/@eloistree/videos
-- Linked-In Generated:  [CV January 2024](CV/2024_02_10_CVLinkedIn.pdf) 
+- Linked-In Generated:  [CV January 2024](CV/2024_02_10_CVLinkedIn.pdf)
+  - From [LinkedIn/EloiStree](https://www.linkedin.com/in/eloistree/)
 
 
 
