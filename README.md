@@ -4,12 +4,11 @@
 ## 2020
 
 # Given workshops & courses
-[![](https://scontent.fbru1-1.fna.fbcdn.net/v/t1.0-9/23754973_10214936340031673_94190270321766690_n.jpg?oh=8aa958a36655429bfcef481df355eae5&oe=5AF1D39C)](https://youtu.be/W1TRh4pAFzY)
+
 - **2023/08/05** : Unity3D et python pour du QA testing scripté [Online Course](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC)
 - **Années 2023** : Ateliers de pilotage de drone et voiture RC en Classic/VR/XR (Archive Video: https://www.youtube.com/shorts/wIaLICSFSxY )  
 
-Before 2020:
-![CV_EloiStree_2020](https://github.com/EloiStree/Teaching/assets/20149493/fa2322b7-8cf3-4aeb-b75e-74a6b62bfbc2)
+## Before 2020:
 
 - **2019/08/05** : Introduction to Oculus Quest and VR [Online Course](https://github.com/EloiStree/CodeAndQuestsEveryDay/wiki)
 - **2019/04/09** : Initiation to Hololens [Online Course](https://github.com/EloiStree/HelloHololens/wiki)
@@ -28,6 +27,11 @@ Before 2020:
 -  **2017/01/24** : 24H Virutal reality painting jam ([Video](https://youtu.be/n6uqpYgrE2E))
 -  **2016/11/17** : UCLL Hello VR ([Video](https://www.youtube.com/watch?v=c0H4T-7WbLo)) 
 -  **2016/09/19** : Hello VR for Android ([Info](https://www.meetup.com/fr-FR/Virtual-Reality-in-Belgium/events/233084944/?eventId=233084944))
+
+
+![CV_EloiStree_2020](https://github.com/EloiStree/Teaching/assets/20149493/cfdd3142-6303-49da-96fb-498cadb26db1)
+
+
 # Virtual Teacher simulator 
 [![](https://img.itch.zone/aW1hZ2UvMTgyMzI5Lzg1MjM1My5qcGc=/original/JFR7%2FY.jpg)](https://www.youtube.com/watch?v=GHykAvW7ZhE)     
 [Watch game trailer](https://www.youtube.com/watch?v=GHykAvW7ZhE) - [More educational game](https://github.com/EloiStree/2017_10_06_KissYourTeacher/wiki)
