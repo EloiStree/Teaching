@@ -156,6 +156,9 @@ Un survivant.
 - Connaissance de l'utilisation de la Kinect 1 et 2 (+ Azure)
 - Connaissance sur l'application de Compute Shader et Job System sur les nuages de points générés par la Kinect dans le but de faire des expériences socialistes fluides dans les musées et projections.
 
+Google Sheet
+- Importer des configurations de projet via Google Sheet pour les designers
+
 ---------------------------------------
 
 - Note de progression sur mes cours "To Do Today" avec les élèves durant les formations : [lien vers le document](https://github.com/EloiStree/HelloEloiTeachingModule/blob/main/OldToDoToday/2017To2023ToDo.md).
