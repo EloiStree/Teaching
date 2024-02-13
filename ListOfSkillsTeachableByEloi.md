@@ -1,3 +1,9 @@
+Scratch
+- Apprentissage de la programmation avec Scratch.
+- Apprentissage de la logique d'un jeu vidéo avec Scratch.
+- Apprendre l'utilisation des API par les variables Cloud de Scratch via Python.
+- Apprendre à détourner une valeur aussi simple qu'un double pour exporter et importer des données depuis Scratch.
+- *Le niveau de complexité des ateliers dépend du niveau des participants : enfants, ados, adultes.*
 
 
 XR, Git Android et autre sujets intéressants sous Unity 3D.
