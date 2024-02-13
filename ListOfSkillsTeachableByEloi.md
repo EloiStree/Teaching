@@ -1,6 +1,7 @@
 
 
 XR, Git Android et autre sujets intéressants sous Unity 3D.
+- Apprendre à connaitre l'OS de Meta sur le Quest 3.
 - Apprendre à faire de la réalité mixte avec le moins de code possible.
 - Faire communiquer deux applications par UDP et par mémoire RAM partagée (IA/Game).
 - Utilisation du Job system de Unity pour tirer la puissance du CPU.
