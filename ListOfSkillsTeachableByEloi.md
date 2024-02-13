@@ -1,6 +1,5 @@
-Bien sûr, voici le texte converti en format Markdown avec des puces :
 
-```markdown
+
 - Apprendre le LUA en créant une IA à l'ancienne sur Git.
 - Apprendre à faire de la réalité mixte avec le moins de code possible.
 - Faire communiquer deux applications par UDP et par mémoire RAM partagée (IA/Game).
@@ -156,4 +155,4 @@ Bien sûr, voici le texte converti en format Markdown avec des puces :
 - Note de progression sur mes cours "To Do Today" avec les élèves durant les formations : [lien vers le document](https://github.com/EloiStree/HelloEloiTeachingModule/blob/main/OldToDoToday/2017To2023ToDo.md).
 
 - Autre module de cours : [lien vers le document](https://github.com/EloiStree/HelloEloiTeachingModule).
-```
+  
