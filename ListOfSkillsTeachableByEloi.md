@@ -110,6 +110,7 @@ Hardware.
 - Enseigner l'utilisation de Bluetooth sous Windows et Android avec UART.
 - Enseigner l'utilisation du Serial Port (USB) avec UART sur Windows dans Unity3D.
 - Enseigner les bases de l'électronique pour créer des contrôleurs spécialisés pour le jeu vidéo. (Voir impression 3D et compétence de FabLab.)
+- Apprendre à créer des bornes d'arcades DIY.
 
 Rotation.
 - Les rotations, ce n'est pas compliqué. Mais il faut pratiquer beaucoup pour bien les comprendre.
@@ -158,6 +159,8 @@ Un survivant.
 
 Google Sheet
 - Importer des configurations de projet via Google Sheet pour les designers
+
+
 
 ---------------------------------------
 
