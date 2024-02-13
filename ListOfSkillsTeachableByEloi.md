@@ -27,7 +27,8 @@ XR, Git Android et autre sujets intéressants sous Unity 3D.
 - Traduction de la certification Unity en mots compréhensibles par des débutants et suivi de leur avancement (Je ne possède pas la certification).
 - Apprendre à créer des spectrogrammes sonores avec les Compute Shader de Unity3D.
 - Apprendre à débugger un problème à l'aide de Visual Studio et/ou du profiler de Unity3D.
-- Apprendre à utiliser Git ! GIIIIIT !!! J'aime donner cours de Git 🙂 Je n'ai pas un niveau de dieu, je ne peux pas enseigner à des seniors ou experts, mais j'adore aider les débutants sur cet outil indispensable.
+
+Apprendre à utiliser Git ! GIIIIIT !!! J'aime donner cours de Git 🙂 Je n'ai pas un niveau de dieu, je ne peux pas enseigner à des seniors ou experts, mais j'adore aider les débutants sur cet outil indispensable.
 - Apprentissage de Git pour les débutants.
 - Apprentissage de Git aux artistes.
 - Apprentissage de Git aux étudiants d'école pour leurs travaux de groupe.
