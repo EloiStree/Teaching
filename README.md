@@ -14,7 +14,7 @@ What can I teach from this workshop:
 
 
 ## 2023 / 2024
-- **2024/02/26** : Initiation to the basic of Unity3D in a library [Pitch](https://github.com/EloiStree/HelloCarRC/blob/main/BonjourUnity3D/Atelier_300GamingSpace.md),  [Online Course](https://github.com/EloiStree/HelloCarRC/blob/main/FR/February2024/HelloCarRCFR.md)
+- **2024/02/26** : Initiation to the basic of Unity3D in a library for kids [Pitch](https://github.com/EloiStree/HelloCarRC/blob/main/BonjourUnity3D/Atelier_300GamingSpace.md),  [Online Course](https://github.com/EloiStree/HelloCarRC/blob/main/FR/February2024/HelloCarRCFR.md)
 - **2023/08/05** : Unity3D and python for QA automated testing  [Online Course](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC)
 - **Années 2023** : Workshop to learn drone through VR and electronics ([Archive Video](https://www.youtube.com/shorts/wIaLICSFSxY))  
 
