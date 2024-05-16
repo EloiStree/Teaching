@@ -15,6 +15,13 @@ Learn about what I am able and willing to teach:
 
 
 ## 2023 / 2024
+
+Incoming:
+- **2024/07/15-19** : Initation to XR for level design
+- **2024/07/1-5** : Unity3D toolbox, network and optimisation for XR
+- **2024/05/17** : QA testing in video game Girleek. [Course]([https://github.com/EloiStree/HelloCarRC/blob/main/Hello](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek))
+
+Previously:
 - **2024/02/26** : Initiation to the basic of Unity3D in a library for kids [Pitch](https://github.com/EloiStree/HelloCarRC/blob/main/BonjourUnity3D/Atelier_300GamingSpace.md),  [Online Course](https://github.com/EloiStree/HelloCarRC/blob/main/FR/February2024/HelloCarRCFR.md)
 - **2023/08/05** : Unity3D and python for QA automated testing  [Online Course](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC)
 - **Années 2023** : Workshop to learn drone through VR and electronics ([Archive Video](https://www.youtube.com/shorts/wIaLICSFSxY))  
