@@ -6,10 +6,10 @@ Learn about what I am able and willing to teach:
 
 ## Integer Games 2024 - 2028+
 
-![image](https://github.com/EloiStree/Teaching/assets/20149493/5115202d-4e64-43f0-b985-e6dbb6c6969a)
-**Pitch**: 
-- _Learn and train on any code from any engine or website on a group workshop visible on projector and visible in augmented reality._
-- _Playable as eSport and streamable on Twitch. Playable by Scratch._"
+![image](https://github.com/EloiStree/Teaching/assets/20149493/5115202d-4e64-43f0-b985-e6dbb6c6969a)  
+**Pitch**:   
+- _Learn and train on any code from any engine or website on a group workshop visible on projector and visible in augmented reality._  
+- _Playable as eSport and streamable on Twitch. Playable by Scratch._"  
 
 
 
