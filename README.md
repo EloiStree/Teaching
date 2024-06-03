@@ -1,7 +1,12 @@
 # Skills & Services
 
-Learn about what I am able and willing to teach:  
-[https://github.com/EloiStree/HelloEloiTeachingModule](https://github.com/EloiStree/HelloEloiTeachingModule)  
+
+Learn about what I am able and willing to teach:
+
+- [FR: List of workshops I can give in a QA testing context](https://github.com/EloiStree/HelloEloiTeachingModule/blob/main/MakeList/Girleek2025/FR_List_Merge.md)
+- [FR: List of workshops I can teach in a Unity3D context](https://github.com/EloiStree/Teaching/blob/master/ListOfSkillsTeachableByEloi.md)
+- [EN: Draft list of modules I would love to teach in various contexts](https://github.com/EloiStree/HelloEloiTeachingModule)
+
 
 
 ## Integer Games 2024 - 2028+
