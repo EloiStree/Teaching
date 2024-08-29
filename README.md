@@ -21,14 +21,14 @@ Learn about what I am able and willing to teach:
 
 ## 2023 / 2024
 
-Incoming:
+**Incoming:**  
+- **2025/04/20** : Learn code in Scratch via Warcraft for kids
 - Charleroi, Streat Art ([Course](https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/tree/main))
   - **2024/10/07-30+1** : From C# to Street AR (part 1)
   - **2024/10/23-27** : Discover Unity3D as Developer with AR Focus
   - **2024/09/09-13** : Discover Unity3D as Developer
 
-Previously:
-
+**Previously:**  
 - **2024/07/15-19** : Initation to XR for level design ([Course](https://github.com/EloiStree/2024_07_16_MonsXrDesign))
 - **2024/07/1-5** : Unity3D toolbox, network and optimisation for XR ([Course](https://github.com/EloiStree/2024_07_01_HelloUnityDroneSoccerMons))
   - Miss calculated level required: redirected to XR, Optimisation , Input, profiler and Disvovering [Course](https://github.com/EloiStree/2024_07_03_HelloMonsXR)
