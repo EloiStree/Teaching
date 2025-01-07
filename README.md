@@ -1,13 +1,10 @@
 # Skills & Services
 
-
 Learn about what I am able and willing to teach:
 
 - [FR: List of workshops I can give in a QA testing context](https://github.com/EloiStree/HelloEloiTeachingModule/blob/main/MakeList/Girleek2025/FR_List_Merge.md)
 - [FR: List of workshops I can teach in a Unity3D context](https://github.com/EloiStree/Teaching/blob/master/ListOfSkillsTeachableByEloi.md)
 - [EN: Draft list of modules I would love to teach in various contexts](https://github.com/EloiStree/HelloEloiTeachingModule)
-
-
 
 ## Integer Games 2024 - 2028+
 
@@ -17,16 +14,15 @@ Learn about what I am able and willing to teach:
 - _Playable as eSport and streamable on Twitch. Playable by Scratch._"  
 
 
-
-
-## 2023 / 2024
+## 2025
 
 **Incoming:**  
-- **2025/04/20** : Learn code in Scratch via Warcraft for kids
-- Charleroi, Streat Art ([Course](https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/tree/main))
-  - **2024/10/07-30+1** : From C# to Street AR (part 1)
-  - **2024/10/23-27** : Discover Unity3D as Developer with AR Focus
-  - **2024/09/09-13** : Discover Unity3D as Developer
+- NID Gaming, start February 2025
+- 300 Gaming Space XR, end February 2025 
+- Hello Unity, around Mars-June 2025
+- Street AR on Quest 3 November 2025
+
+## 2023 / 2024
 
 **Previously:**  
 - **2024/07/15-19** : Initation to XR for level design ([Course](https://github.com/EloiStree/2024_07_16_MonsXrDesign))
@@ -36,6 +32,10 @@ Learn about what I am able and willing to teach:
 - **2024/02/26** : Initiation to the basic of Unity3D in a library for kids [Pitch](https://github.com/EloiStree/HelloCarRC/blob/main/BonjourUnity3D/Atelier_300GamingSpace.md),  [Online Course](https://github.com/EloiStree/HelloCarRC/blob/main/FR/February2024/HelloCarRCFR.md)
 - **2023/08/05** : Unity3D and python for QA automated testing  [Online Course](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC)
 - **Années 2023** : Workshop to learn drone through VR and electronics ([Archive Video](https://www.youtube.com/shorts/wIaLICSFSxY))  
+- Charleroi, Streat Art ([Course](https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/tree/main))
+  - **2024/09/09-13** : Discover Unity3D as Developer
+  - **2024/10/23-27** : Discover Unity3D as Developer with AR Focus
+  - **2024/10/07-30+1** : From C# to Street AR (part 1)
 
 ## Before 2020:
 
