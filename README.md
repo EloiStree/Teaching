@@ -16,11 +16,14 @@ Learn about what I am able and willing to teach:
 
 ## 2025
 
+
 **Incoming:**  
-- NID Gaming, start February 2025
-- 300 Gaming Space XR, end February 2025 
-- Hello Unity, around Mars-June 2025
-- Street AR on Quest 3 November 2025
+- NID Gaming: Starting February 2025  
+- 300 Gaming Space XR: Ending February 2025  
+- Hello Unity: Around March–June 2025  
+- Street AR on Quest 3: November 2025  
+- Input Design: September 2025  
+
 
 ## 2023 / 2024
 
