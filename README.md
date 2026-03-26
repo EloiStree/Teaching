@@ -17,7 +17,7 @@ Learn about what I am able and willing to teach:
 * **July–August 2026:** Coaching - Charleroi 
 * **11 & 12 June:** XR Gaming Initiation – Mons [Workshop->](https://github.com/EloiStree/2026_05_11_WorkshopGamingHelloXR)
 * **11 May – 5 June:** XR Development with Godot – Charleroi [Workshop->](https://github.com/EloiStree/2026_05_11_WorkshopHelloGodotXR/blob/main/README.md)
-* **18 February:** La Louvière Gaming XR  [Event](https://github.com/EloiStree/2026_03_26_event_gamingspace300_fest)
+* **18 April:** La Louvière Gaming XR  [Event](https://github.com/EloiStree/2026_03_26_event_gamingspace300_fest)
 * **9-10 April:** Hello Git & XR Artist 😋 – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md)
 * **7-8 April:** Hello Git & XR Dev – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md) 
 
