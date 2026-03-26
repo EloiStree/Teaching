@@ -6,12 +6,33 @@ Learn about what I am able and willing to teach:
 - [FR: List of workshops I can teach in a Unity3D context](https://github.com/EloiStree/Teaching/blob/master/ListOfSkillsTeachableByEloi.md)
 - [EN: Draft list of modules I would love to teach in various contexts](https://github.com/EloiStree/HelloEloiTeachingModule)
 
-## Integer Games 2024 - 2028+
 
-![image](https://github.com/EloiStree/Teaching/assets/20149493/5115202d-4e64-43f0-b985-e6dbb6c6969a)  
-**Pitch**:   
-- _Learn and train on any code from any engine or website on a group workshop visible on projector and visible in augmented reality._  
-- _Playable as eSport and streamable on Twitch. Playable by Scratch._"  
+
+
+## 2026
+
+
+**Incoming**
+* **Date inconnue:** Apprendre C# par le QA testing [Workshop ->](https://github.com/EloiStree/HelloOneMonthSharpYourWay)
+* **July–August 2026:** Coaching - Charleroi 
+
+* **11 & 12 June:** XR Gaming Initiation – Mons [Workshop->](https://github.com/EloiStree/2026_05_11_WorkshopGamingHelloXR)
+* **11 May – 5 June:** XR Development with Godot – Charleroi [Workshop->](https://github.com/EloiStree/2026_05_11_WorkshopHelloGodotXR/blob/main/README.md)
+* **18 April:** La Louvière Gaming XR  [Event](https://github.com/EloiStree/2026_03_26_event_gamingspace300_fest)
+* **9-10 April:** Hello Git & XR Artist 😋 – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md)
+* **7-8 April:** Hello Git & XR Dev – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md) 
+ 
+**Previous**
+* **16–20 February:** Learn to Code by Playing – La Louvière [Workshop->](https://github.com/EloiStree/2026_02_16_WorkshopCodeByPlayingGaming300/blob/main/README.md)
+* **25 March:** Nid Dev 2 – Charleroi [Workshop ->](https://github.com/EloiStree/HelloOneDayGodotXR/blob/main/README.md)
+* **18 March:** Nid Dev 1 – Charleroi [Workshop ->](https://github.com/EloiStree/HelloOneDayGodotXR/blob/main/README.md)
+* **9 & 13 February:** What’s New in XR – Charleroi [Workshop->](https://github.com/EloiStree/2026_02_09_WorkshopWhatNewInXR)
+* **5 & 6 February:** Nid Dev 2 – End Mons [Workshop->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)
+* **26 January – 1 February:** Global – Charleroi Workshop [2025->](https://github.com/EloiStree/2025_01_20_GlobalGameJamMons)
+* **16 & 19 January:** Nid Dev 1 – Middle Mons [Workshop->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)
+* **07 January:** Hello XR - Charleroi [Info](https://github.com/EloiStree/2026_01_08_HelloJobInXR/edit/main/README.md)
+
+
 
 
 ## 2025
@@ -27,7 +48,6 @@ Learn about what I am able and willing to teach:
 
 ## 2023 / 2024
 
-**Previously:**  
 - **2024/07/15-19** : Initation to XR for level design ([Course](https://github.com/EloiStree/2024_07_16_MonsXrDesign))
 - **2024/07/1-5** : Unity3D toolbox, network and optimisation for XR ([Course](https://github.com/EloiStree/2024_07_01_HelloUnityDroneSoccerMons))
   - Miss calculated level required: redirected to XR, Optimisation , Input, profiler and Disvovering [Course](https://github.com/EloiStree/2024_07_03_HelloMonsXR)
@@ -48,28 +68,25 @@ Learn about what I am able and willing to teach:
 - **2018/03/08** : Be a Virtual reality develeper in 70 days ([Online Course](http://eloistree.page.link/vr))
 - **2017/12/11** : Game Developer in 100 days ([Objectives](http://www.technifutur.be/formations-informatique-formations-pour-demandeurs-d-emploi-formation-game-developer) - [Online Course](http://eloistree.page.link/unity/))      
 - **2017/11/17** : Coach at the Moscow Hackathon ([Write-up](https://github.com/EloiStree/2017_11_18_MoscowMetro/wiki))
--  **2017/11/20** : Virtual Reality Initation #3 ([Objectives](https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_11_20_HelloVR_Technobel.pdf))
--  **2017/10/06** : Creation of Teaching Simulator ([Video](https://www.youtube.com/watch?v=s3052ARNaeo) - [Write-up](https://github.com/EloiStree/2017_10_06_KissYourTeacher/wiki))
--  **2017/10/12** : Ambassador/Coach VR at Museomix ([Video](https://www.facebook.com/museomixBE/videos/1113864978748669/))
--  **2017/09/10** : Virtual reality briefing with the Interface3 team (~~[Video](#)~~)
--  **2017/09/20** : Virtual reality Workshop Coach (Mons, Technocité)
--  **2017/08/16** : Virtual reality Developer initation #2 ([Objectives](https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_08_16_HelloVR_Interface3.pdf)) 
--  **2017/06/16** : Virtual reality Developer initation #1 ([Objectives](https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_06_26_HelloVR_Technocite.pdf)) 
--  **2017/03/30** : Write-up on Girleek (IoT for kids and girls) (~~[Video](#)~~)
--  **2017/01/24** : 24H Virutal reality painting jam ([Video](https://youtu.be/n6uqpYgrE2E))
--  **2016/11/17** : UCLL Hello VR (~~[Video](#)~~) 
--  **2016/09/19** : Hello VR for Android ([Info](https://www.meetup.com/fr-FR/Virtual-Reality-in-Belgium/events/233084944/?eventId=233084944))
-
+- **2017/11/20** : Virtual Reality Initation #3 ([Objectives](https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_11_20_HelloVR_Technobel.pdf))
+- **2017/10/06** : Creation of Teaching Simulator ([Video](https://www.youtube.com/watch?v=s3052ARNaeo) - [Write-up](https://github.com/EloiStree/2017_10_06_KissYourTeacher/wiki))
+- **2017/10/12** : Ambassador/Coach VR at Museomix ([Video](https://www.facebook.com/museomixBE/videos/1113864978748669/))
+- **2017/09/10** : Virtual reality briefing with the Interface3 team (~~[Video](#)~~)
+- **2017/09/20** : Virtual reality Workshop Coach (Mons, Technocité)
+- **2017/08/16** : Virtual reality Developer initation #2 ([Objectives](https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_08_16_HelloVR_Interface3.pdf)) 
+- **2017/06/16** : Virtual reality Developer initation #1 ([Objectives](https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_06_26_HelloVR_Technocite.pdf)) 
+- **2017/03/30** : Write-up on Girleek (IoT for kids and girls) (~~[Video](#)~~)
+- **2017/01/24** : 24H Virutal reality painting jam ([Video](https://youtu.be/n6uqpYgrE2E))
+- **2016/11/17** : UCLL Hello VR (~~[Video](#)~~) 
+- **2016/09/19** : Hello VR for Android ([Info](https://www.meetup.com/fr-FR/Virtual-Reality-in-Belgium/events/233084944/?eventId=233084944))
 
 ![CV_EloiStree_2020](https://github.com/EloiStree/Teaching/assets/20149493/cfdd3142-6303-49da-96fb-498cadb26db1)
 
 
 # Virtual Teacher simulator 
-[![](https://img.itch.zone/aW1hZ2UvMTgyMzI5Lzg1MjM1My5qcGc=/original/JFR7%2FY.jpg)](https://www.youtube.com/watch?v=GHykAvW7ZhE)     
+[![#](https://img.itch.zone/aW1hZ2UvMTgyMzI5Lzg1MjM1My5qcGc=/original/JFR7%2FY.jpg)](https://www.youtube.com/watch?v=GHykAvW7ZhE)     
 [![image](https://github.com/EloiStree/Teaching/assets/20149493/2258be06-e737-4715-a8e4-0cfcaa929240)](https://www.youtube.com/watch?v=s3052ARNaeo)
-
 [Watch game trailer](https://www.youtube.com/watch?v=s3052ARNaeo) - [More educational game](https://github.com/EloiStree/2017_10_06_KissYourTeacher/wiki)
-
 
  --------------------------------------
  
