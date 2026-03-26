@@ -12,10 +12,9 @@ Learn about what I am able and willing to teach:
 ## 2026
 
 
-**Incoming**
+**Incoming**:      
 * **Date inconnue:** Apprendre C# par le QA testing [Workshop ->](https://github.com/EloiStree/HelloOneMonthSharpYourWay)
 * **July–August 2026:** Coaching - Charleroi 
-
 * **11 & 12 June:** XR Gaming Initiation – Mons [Workshop->](https://github.com/EloiStree/2026_05_11_WorkshopGamingHelloXR)
 * **11 May – 5 June:** XR Development with Godot – Charleroi [Workshop->](https://github.com/EloiStree/2026_05_11_WorkshopHelloGodotXR/blob/main/README.md)
 * **18 April:** La Louvière Gaming XR  [Event](https://github.com/EloiStree/2026_03_26_event_gamingspace300_fest)
@@ -23,27 +22,28 @@ Learn about what I am able and willing to teach:
 * **7-8 April:** Hello Git & XR Dev – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md) 
  
 **Previous**
-* **16–20 February:** Learn to Code by Playing – La Louvière [Workshop->](https://github.com/EloiStree/2026_02_16_WorkshopCodeByPlayingGaming300/blob/main/README.md)
-* **25 March:** Nid Dev 2 – Charleroi [Workshop ->](https://github.com/EloiStree/HelloOneDayGodotXR/blob/main/README.md)
-* **18 March:** Nid Dev 1 – Charleroi [Workshop ->](https://github.com/EloiStree/HelloOneDayGodotXR/blob/main/README.md)
-* **9 & 13 February:** What’s New in XR – Charleroi [Workshop->](https://github.com/EloiStree/2026_02_09_WorkshopWhatNewInXR)
-* **5 & 6 February:** Nid Dev 2 – End Mons [Workshop->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)
-* **26 January – 1 February:** Global – Charleroi Workshop [2025->](https://github.com/EloiStree/2025_01_20_GlobalGameJamMons)
-* **16 & 19 January:** Nid Dev 1 – Middle Mons [Workshop->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)
-* **07 January:** Hello XR - Charleroi [Info](https://github.com/EloiStree/2026_01_08_HelloJobInXR/edit/main/README.md)
-
-
-
+* **2026/03/18:** Nid Dev 1 – Charleroi [Workshop ->](https://github.com/EloiStree/HelloOneDayGodotXR/blob/main/README.md)
+* **2026/02/16–20 February:** Learn to Code by Playing – La Louvière [Workshop->](https://github.com/EloiStree/2026_02_16_WorkshopCodeByPlayingGaming300/blob/main/README.md)
+* ~**2026/02/09:**~ What’s New in XR – Charleroi [Workshop->](https://github.com/EloiStree/2026_02_09_WorkshopWhatNewInXR)
+* **2026/02/05:** Nid Dev 2 – End Mons [Workshop->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)
+* **2026/01/26:** Global – Charleroi Workshop [2026->]( https://github.com/EloiStree/2026_01_26_GlobalGameJamTechno)
+* **2026/01/16:** Nid Dev 1 – Middle Mons [Workshop->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)
+* **2026/01/07:** Hello XR - Charleroi [Info](https://github.com/EloiStree/2026_01_08_HelloJobInXR/edit/main/README.md)
 
 ## 2025
 
-
-**Incoming:**  
-- NID Gaming: Starting February 2025  
-- 300 Gaming Space XR: Ending February 2025  
-- Hello Unity: Around March–June 2025  
-- Street AR on Quest 3: November 2025  
-- Input Design: September 2025  
+- **2025/12/05**: Coaching of CrossTechXperience ([Helper](https://github.com/EloiStree/2025_12_05_CrossTechXperience))
+- **2025/09/17**: Open Day, Godot en 1H ([Site](https://www.e6k.be/news/open-day-e6k-ft-a6k-2025))
+- **2025/06/27:** Suivit d'atelier XR 
+- **2025/07/17:** Initation XR Camera ([Workhsop](https://github.com/EloiStree/HelloUseCpuAndGpuOnQuest3))
+- **2025/07/14:** Decouvert XR Design ([Workshop](https://github.com/EloiStree/2025_05_22_MonsCookieFactoryXR))
+- **2025/06/05:** Bonjour Android XR ([Workshop](https://github.com/EloiStree/2025_05_20_MeasureOfTechnociteWithQuest3))
+- **2025/05/16:** Bonjour Android ([Workshop](https://github.com/EloiStree/2025_05_18_QuestDevArtDesignAndADB))
+- **2025/05/05:** Hello C# in Warcraft ([Workshop](https://github.com/EloiStree/2025_02_05_WarcraftClientQA))
+- **2025/05/22:** Introduction XR Nid ([Workshop->](https://github.com/EloiStree/2025_05_20_MeasureOfTechnociteWithQuest3))
+- **2025/02/24 ;** Un jeu dans ma bibliotheque ([Workshop->](https://github.com/EloiStree/2025_02_24_UnJeuDansLaBibliotheque)) 
+- **2025/02/03:** C# par le jeu initation [V1 V2 V3](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup)
+- **2025/01/20:** Global Game Jam en 5 jours ([Info](https://github.com/EloiStree/2026_01_26_GlobalGameJamTechno/tree/2025))
 
 
 ## 2023 / 2024
