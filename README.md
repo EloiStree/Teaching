@@ -20,30 +20,32 @@ Learn about what I am able and willing to teach:
 * **18 April:** La Louvière Gaming XR  [Event](https://github.com/EloiStree/2026_03_26_event_gamingspace300_fest)
 * **9-10 April:** Hello Git & XR Artist 😋 – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md)
 * **7-8 April:** Hello Git & XR Dev – Charleroi [Workshop ->](https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/blob/main/README.md) 
- 
+
+
 **Previous**
+
 * **2026/03/18:** Nid Dev 1 – Charleroi [Workshop ->](https://github.com/EloiStree/HelloOneDayGodotXR/blob/main/README.md)
-* **2026/02/16–20 February:** Learn to Code by Playing – La Louvière [Workshop->](https://github.com/EloiStree/2026_02_16_WorkshopCodeByPlayingGaming300/blob/main/README.md)
-* ~**2026/02/09:**~ What’s New in XR – Charleroi [Workshop->](https://github.com/EloiStree/2026_02_09_WorkshopWhatNewInXR)
-* **2026/02/05:** Nid Dev 2 – End Mons [Workshop->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)
-* **2026/01/26:** Global – Charleroi Workshop [2026->]( https://github.com/EloiStree/2026_01_26_GlobalGameJamTechno)
-* **2026/01/16:** Nid Dev 1 – Middle Mons [Workshop->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)
-* **2026/01/07:** Hello XR - Charleroi [Info](https://github.com/EloiStree/2026_01_08_HelloJobInXR/edit/main/README.md)
+* **2026/02/16–20:** Learn to Code by Playing – La Louvière [Workshop ->](https://github.com/EloiStree/2026_02_16_WorkshopCodeByPlayingGaming300/blob/main/README.md)
+* ~~**2026/02/09:**~~ What’s New in XR – Charleroi [Workshop ->](https://github.com/EloiStree/2026_02_09_WorkshopWhatNewInXR)
+* **2026/02/05:** Nid Dev 2 – End Mons [Workshop ->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)
+* **2026/01/26:** Global – Charleroi Workshop [2026 ->](https://github.com/EloiStree/2026_01_26_GlobalGameJamTechno)
+* **2026/01/16:** Nid Dev 1 – Middle Mons [Workshop ->](https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md)
+* **2026/01/07:** Hello XR – Charleroi [Info](https://github.com/EloiStree/2026_01_08_HelloJobInXR/edit/main/README.md)
 
 ## 2025
 
-- **2025/12/05**: Coaching of CrossTechXperience ([Helper](https://github.com/EloiStree/2025_12_05_CrossTechXperience))
-- **2025/09/17**: Open Day, Godot en 1H ([Site](https://www.e6k.be/news/open-day-e6k-ft-a6k-2025))
-- **2025/06/27:** Suivit d'atelier XR 
-- **2025/07/17:** Initation XR Camera ([Workhsop](https://github.com/EloiStree/HelloUseCpuAndGpuOnQuest3))
-- **2025/07/14:** Decouvert XR Design ([Workshop](https://github.com/EloiStree/2025_05_22_MonsCookieFactoryXR))
-- **2025/06/05:** Bonjour Android XR ([Workshop](https://github.com/EloiStree/2025_05_20_MeasureOfTechnociteWithQuest3))
-- **2025/05/16:** Bonjour Android ([Workshop](https://github.com/EloiStree/2025_05_18_QuestDevArtDesignAndADB))
-- **2025/05/05:** Hello C# in Warcraft ([Workshop](https://github.com/EloiStree/2025_02_05_WarcraftClientQA))
-- **2025/05/22:** Introduction XR Nid ([Workshop->](https://github.com/EloiStree/2025_05_20_MeasureOfTechnociteWithQuest3))
-- **2025/02/24 ;** Un jeu dans ma bibliotheque ([Workshop->](https://github.com/EloiStree/2025_02_24_UnJeuDansLaBibliotheque)) 
-- **2025/02/03:** C# par le jeu initation [V1 V2 V3](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup)
-- **2025/01/20:** Global Game Jam en 5 jours ([Info](https://github.com/EloiStree/2026_01_26_GlobalGameJamTechno/tree/2025))
+* **2025/12/05:** Coaching of CrossTechXperience ([Helper](https://github.com/EloiStree/2025_12_05_CrossTechXperience))
+* **2025/09/17:** Open Day, Godot en 1H ([Site](https://www.e6k.be/news/open-day-e6k-ft-a6k-2025))
+* **2025/06/27:** Suivi d’atelier XR
+* **2025/07/17:** Initiation XR Camera ([Workshop](https://github.com/EloiStree/HelloUseCpuAndGpuOnQuest3))
+* **2025/07/14:** Découverte XR Design ([Workshop](https://github.com/EloiStree/2025_05_22_MonsCookieFactoryXR))
+* **2025/06/05:** Bonjour Android XR ([Workshop](https://github.com/EloiStree/2025_05_20_MeasureOfTechnociteWithQuest3))
+* **2025/05/16:** Bonjour Android ([Workshop](https://github.com/EloiStree/2025_05_18_QuestDevArtDesignAndADB))
+* **2025/05/05:** Hello C# in Warcraft ([Workshop](https://github.com/EloiStree/2025_02_05_WarcraftClientQA))
+* **2025/05/22:** Introduction XR Nid ([Workshop ->](https://github.com/EloiStree/2025_05_20_MeasureOfTechnociteWithQuest3))
+* **2025/02/24:** Un jeu dans ma bibliothèque ([Workshop ->](https://github.com/EloiStree/2025_02_24_UnJeuDansLaBibliotheque))
+* **2025/02/03:** C# par le jeu [V1 V2 V3](https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup)
+* **2025/01/20:** Global Game Jam en 5 jours ([Info](https://github.com/EloiStree/2026_01_26_GlobalGameJamTechno/tree/2025))
 
 
 ## 2023 / 2024
